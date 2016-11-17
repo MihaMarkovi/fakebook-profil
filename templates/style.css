@@ -1,0 +1,46 @@
+#naslov{
+    color: blue;
+    font-family: Magneto;
+    font-size: 40px;
+}
+
+#body {
+    background-color: turquoise;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#slika{
+    border-style: dashed;
+}
+
+#ime{
+    color: darkred;
+    font-family: Algerian;
+}
+
+.reklama {
+    height: 50px;
+    width: 100%;
+    position: relative;
+    border-style: solid;
+    text-align: center;
+
+}
+
+#modra-reklama{
+    background-color: blue;
+    top: 0px;
+}
+
+#rdeca-reklama{
+    background-color: red;
+    bottom: 0px;
+}
+
+p{
+    font-size: 25px;
+}
